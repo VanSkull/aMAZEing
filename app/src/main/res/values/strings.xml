@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">a-MAZE-ing</string>
+    <string name="todo">TODO</string>
+    <string name="a_maze_ing">a-MAZE-ing</string>
+    <string name="niveaux">Niveaux</string>
+    <string name="quitter">Quitter</string>
+    <string name="jouer">Jouer</string>
+    <string name="logo_amazeing">logo_aMAZEing</string>
+</resources>
